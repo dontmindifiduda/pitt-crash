@@ -1,0 +1,5 @@
+.DS_Store
+/.ipynb_checkpoints
+pittsburgh-crash-geographical-clustering.ipynb
+county-crash-categorical-clustering.ipynb
+pittsburgh-crashes.ipynb

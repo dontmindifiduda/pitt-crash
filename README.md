@@ -1,5 +1,7 @@
 # Pittsburgh Crash Categorical Data Clustering Using K-Modes
 
+![Pittsburgh Car Crashes (2009-2019)](https://github.com/dontmindifiduda/pitt-crash/blob/main/images/pitt_all_crashes.png)
+
 The notebooks contained in this repository analyze crash data from automobile accidents reported in the City of Pittsburgh from 2009-2019. The data used for this analysis was provided by the Western Pennsylvania Regional Data Center and can be found at the following link:  [https://data.wprdc.org/dataset/allegheny-county-crash-data](https://data.wprdc.org/dataset/allegheny-county-crash-data). A data dictionary containing descriptions of each of the variables included in this dataset can be found here:  [https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/4df9a3c6-34c1-45a5-936e-80758f9f38a5](https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/4df9a3c6-34c1-45a5-936e-80758f9f38a5).
 
 
